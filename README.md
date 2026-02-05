@@ -13,6 +13,7 @@ The application runs on EC2 instances behind an Application Load Balancer, store
 
 <img width="611" height="481" alt="vpc-example-private-subnets" src="https://github.com/user-attachments/assets/f970942e-b9d7-4a88-a6aa-41f23ba10d30" />
 
+---
 
 ## 🏗️ Architecture Summary
 
